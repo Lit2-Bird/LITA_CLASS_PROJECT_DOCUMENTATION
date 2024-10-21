@@ -9,6 +9,14 @@ I am going to be exploring sales data to uncover key insights such as top-sellin
 The goal is to produce an interactive Power BI dashboard that highlights these findings.
 
 ## TABLE OF CONTENTS
+- DATA COLLECTED
+- PROJECT OBJECTIVES
+- KEY METRICS
+- HOW TO USE DATA
+- FORMULA USED
+- TOOLS AND METHOD USED
+- INFERENCES
+- CONCLUSION
 
 ## DATA SOURCES
 The primary source of Data used here is LITA CAPSTONE PROJECT Data set.
